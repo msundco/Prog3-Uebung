@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\bin\Debug\OOPGames.exe.config
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\bin\Debug\OOPGames.exe
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\bin\Debug\OOPGames.pdb
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames_MarkupCompile.cache
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames_MarkupCompile.lref
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.g.resources
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.exe
+C:\Users\david\OneDrive\Desktop\Programmieren3WS20212022\OOPGames\OOPGames\obj\Debug\OOPGames.pdb
